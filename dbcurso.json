@@ -1,0 +1,57 @@
+{
+    "alunos":[
+        {
+            "nome":"João da Silva",
+            "endereço": "Rua XYZ",
+            "bairro": "Vila Valqueire",
+            "cidade":"Rio de Janeiro",
+            "email": "alessandro.vieira@gmail.com",
+            "id_curso": 1,
+            "id": 1
+        },
+        {
+            "nome": "João da Silva",
+            "endereço": "Rua XYZ",
+            "bairro": "Vila Valqueire",
+            "cidade":"Rio de Janeiro",
+            "email": "alessandro.vieira@gmail.com",
+            "id_curso": 2,
+            "id": 2
+        }
+    ],
+    "cursos":[
+        {
+            "nome": "Técnico em Informática",
+            "id": 1
+        },
+        {
+            "nome": "Programadores Cariocas",
+            "id": 2
+        }
+    ]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
